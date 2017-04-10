@@ -1,0 +1,25 @@
+html, body, #app {
+    height: 100%;
+    margin: 0px;
+}
+
+.container {
+    height: 100%;
+    border: 1px solid grey;
+}
+
+.nav {
+    float:left;
+    max-width: 20%;
+    overflow-y: scroll;
+    height: 100%;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+.article {
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    height: 100%;
+    overflow: hidden;
+}
